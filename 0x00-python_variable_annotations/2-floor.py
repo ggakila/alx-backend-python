@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 '''
-function takes in float and return floor of the float which in this case will be an int
+Write a type-annotated function floor which takes a float n
+as argument and returns the floor of the float.
 '''
 
 
